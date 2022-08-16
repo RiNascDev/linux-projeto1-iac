@@ -1,6 +1,6 @@
 # Script Linux - 1º Projeto #
 
-Olá! Bem vindo ao meu primeiro Scrip Linux:wave:
+Olá! Bem vindo ao meu primeiro Script Linux:wave:
 
 Neste Script foram criados diretórios, grupos e usuários;
 
