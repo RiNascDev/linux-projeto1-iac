@@ -1,4 +1,4 @@
-# Scrip Linux - 1º Projeto #
+# Script Linux - 1º Projeto #
 
 Olá! Bem vindo ao meu primeiro Scrip Linux:wave:
 
